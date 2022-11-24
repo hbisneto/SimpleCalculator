@@ -13,9 +13,6 @@ def Main():
    print("=" * 80)
    print("\n")
 
-
-   # Obtém o segundo número
-
    # Informa o usuário sobre as operações disponíveis
    print("=" * 80)
    print("Operações disponíveis")
