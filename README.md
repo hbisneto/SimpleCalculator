@@ -9,7 +9,7 @@ SimpleCalculator requires Python 3.9.0 or later to run
 ## Installation
 
 ```
-pip install SimpleCalculator
+No Information yet
 ```
 
 ## External Links
@@ -22,4 +22,4 @@ Here is some external links that you can use in your `README.md` file.
 
 #
 
-Copyright © 2022 Target. All rights reserved.
+Copyright © 2022 Heitor Bisneto. All rights reserved.
