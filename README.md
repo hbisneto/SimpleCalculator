@@ -1,4 +1,4 @@
-﻿# SimpleCalculator
+# SimpleCalculator
 
 This project was created using [PyBridge](https://github.com/hbisneto/PyBridge)
 
@@ -22,4 +22,4 @@ Here is some external links that you can use in your `README.md` file.
 
 #
 
-Copyright © 2022 Heitor Bisneto. All rights reserved.
+Copyright © 2022 Heitor. All rights reserved.
